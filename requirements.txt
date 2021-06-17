@@ -26,3 +26,4 @@ sqlparse==0.4.1
 threadpoolctl==2.1.0
 urllib3==1.26.4
 wrapt==1.12.1
+whitenoise
